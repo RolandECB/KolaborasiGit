@@ -8,5 +8,6 @@
 <body>
     <h1>ini halaman saya</h1>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima unde doloremque voluptatibus quibusdam aperiam velit perferendis ad ipsa repellendus, earum optio modi amet aliquam sit magnam. Iure error doloribus enim.</p>
+    <p>halo guys ini baris yang ku ubah</p>
 </body>
 </html>
